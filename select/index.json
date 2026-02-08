@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "0001",
+  "base_artist": "とりぴよ",
+  "createdAt": "2026-02-08T10:48:50.850613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Astral Dissociation (Esoteric Art No. 0001)",
+      "artist": "kinda alright",
+      "has_synced": true,
+      "path": "select/01_Astral_Dissociation_(Esoteric_Art_No._0001)_kinda_alright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": ".0001",
+      "artist": "O²",
+      "has_synced": false,
+      "path": "select/02_.0001_O2.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "0001",
+      "artist": "Blaumut",
+      "has_synced": true,
+      "path": "select/03_0001_Blaumut.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flight 0001 (feat. MC Davo)",
+      "artist": "Flyboiz",
+      "has_synced": true,
+      "path": "select/04_Flight_0001_(feat._MC_Davo)_Flyboiz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NEORiME 0001",
+      "artist": "madze",
+      "has_synced": false,
+      "path": "select/05_NEORiME_0001_madze.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "0001. Queen - Bohemian Rhapsody",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/06_0001._Queen_-_Bohemian_Rhapsody_VA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "0001.听悲伤的情歌-苏星婕",
+      "artist": "0500)",
+      "has_synced": true,
+      "path": "select/07_0001.听悲伤的情歌-苏星婕_0500).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0001",
+      "artist": "とりぴよ",
+      "has_synced": false,
+      "path": "select/pl_01_0001_とりぴよ.txt"
+    }
+  ]
+}
